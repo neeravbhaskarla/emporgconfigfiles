@@ -2,7 +2,7 @@ spring:
     application: 
         name: departmentservice
     datasource:
-        url: jdbc:mysql:http://localhost:3306/Employee
+        url: jdbc:mysql://localhost:3306/Employee
         username: root
         password: Gamer@123
 server:
