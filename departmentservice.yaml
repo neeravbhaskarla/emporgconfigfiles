@@ -5,7 +5,5 @@ spring:
         uri: jdbc:mysql:http://localhost:3306/Employee
         username: root
         password: Gamer@123
-    config:
-        import: optional:configserver:http://configserver:8888
 server:
     port: 8082
